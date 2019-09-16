@@ -1,41 +1,41 @@
 # Coursera-ML
 Repository to house shared material for the machine learning course from Stanford on Coursera
 
-# Motivation
+## Motivation
 (Todo)
 
-# Wiki
+## Wiki
 (Todo)
 
-# How To Use
+## How To Use
 (Todo)
 
-# Code Style
+## Code Style
 (Todo)
 
-# Screenshots
+## Screenshots
 (Todo)
 
-# Packages Used
+## Packages Used
 (Todo)
 
-# Features
+## Features
 (Todo)
 
-# Code Example
+## Code Example
 (Todo)
 
-# Installation
+## Installation
 (Todo)
 
-# API Reference
+## API Reference
 (Todo)
 
-# Tests
+## Tests
 (Todo)
 
-# Credits
+## Credits
 (Todo)
 
-# License
+## License
 MIT © Josh Schweigert
